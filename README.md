@@ -1,3 +1,3 @@
 # Yura-Levchenko
 homework
-Levchenko-Yura.Github.io/Site1 "My first site!"
+([site #1](Levchenko-Yura.Github.io/Site "My first site!")
